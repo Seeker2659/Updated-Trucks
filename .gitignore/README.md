@@ -13,7 +13,7 @@ Rear Camera: http://sharemods.com/knuz7oxvezt0/Kenworth_W900_Long_rear_camera.sc
 
 -------------------------------------
 
-P389 By Bu5ted: http://sharemods.com/ge5u55br2c44/P389.scs.html
+P389 By Bu5ted: ⚠️CURRENTLY UNAVAILABLE⚠️
 
 -------------------------------------
 

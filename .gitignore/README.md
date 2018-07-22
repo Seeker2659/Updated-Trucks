@@ -17,7 +17,7 @@ P389 By Bu5ted: http://sharemods.com/ge5u55br2c44/P389.scs.html
 
 -------------------------------------
 
-W900 By Bu5ted: http://sharemods.com/v8c3yn2i6v6s/Bu5ted_W900_V3.scs.html
+W900 By Bu5ted: http://sharemods.com/0q6lfijlmiz1/Bu5ted_W900_V4.scs.html
 
 -------------------------------------
 

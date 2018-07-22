@@ -1,3 +1,4 @@
+TRUCKS:
 -------------------------------------
 
 Dump Truck: http://sharemods.com/ovfx9icjubdk/peter379dumptruck.scs.html
@@ -21,6 +22,11 @@ W900 By Bu5ted: http://sharemods.com/v8c3yn2i6v6s/Bu5ted_W900_V3.scs.html
 -------------------------------------
 
 The Phantom: http://sharemods.com/ksx81oqly2ac/Kenworth_The_Phantom_1.0r.scs.html
+
+-------------------------------------
+
+Freightliner Coronado:http://sharemods.com/i38raefy55fn/freightliner.coronado_Modernized.scs.html
+
 
 -------------------------------------
 

@@ -27,6 +27,9 @@ The Phantom: http://sharemods.com/ksx81oqly2ac/Kenworth_The_Phantom_1.0r.scs.htm
 
 Freightliner Coronado: http://sharemods.com/i38raefy55fn/freightliner.coronado_Modernized.scs.html
 
+-------------------------------------
+
+International 9900i: http://sharemods.com/lpzai4jzi3yl/9900.scs.html
 
 -------------------------------------
 

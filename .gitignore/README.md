@@ -33,6 +33,10 @@ International 9900i: http://sharemods.com/lpzai4jzi3yl/9900.scs.html
 
 -------------------------------------
 
+MCI J4500 + Interior v2.0 Bus (1.31.x): http://sharemods.com/oia156e54a26/DBMX_4500.zip.html
+
+-------------------------------------
+
 *::WARNING::*  Do Not Use All Mods Together Or Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On

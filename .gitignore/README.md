@@ -1,4 +1,7 @@
-TRUCKS:
+ATS updated trucks by Seeker
+
+
+Updated Trucks:
 -------------------------------------
 
 Dump Truck: http://sharemods.com/ovfx9icjubdk/peter379dumptruck.scs.html

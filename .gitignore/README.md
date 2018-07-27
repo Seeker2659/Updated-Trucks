@@ -1,6 +1,3 @@
-ATS updated trucks by Seeker
-
-
 Updated Trucks:
 -------------------------------------
 

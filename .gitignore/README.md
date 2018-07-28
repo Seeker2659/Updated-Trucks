@@ -37,6 +37,6 @@ MCI J4500 + Interior v2.0 Bus (1.31.x): http://sharemods.com/oia156e54a26/DBMX_4
 
 -------------------------------------
 
-*::WARNING::*  Do Not Use All Mods Together Or Will Result In Game Errors!
+*::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On

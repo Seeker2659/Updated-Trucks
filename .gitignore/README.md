@@ -41,9 +41,14 @@ Kenworth 521: http://sharemods.com/jirhpx8okyu3/Kenworth_521.zip.html
 
 -------------------------------------
 
-Oshkosh Defense HEMTT A4: https://sharemods.com/k1bzs5m2grv0/Oshkosh_Defense_HEMTT_A4.zip.html
+Oshkosh Defense HEMTT A4: https://sharemods.com/vvtve06jegsa/Oshkosh_Defense_HEMTT_A4.zip.html
 
 -------------------------------------
+
+MZKT 742910 Volat: https://sharemods.com/9iph36slk313/Volat.zip.html
+
+-------------------------------------
+
 *::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On

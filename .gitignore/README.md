@@ -40,6 +40,10 @@ MCI J4500 + Interior v2.0 Bus (1.31.x): http://sharemods.com/oia156e54a26/DBMX_4
 Kenworth 521: http://sharemods.com/jirhpx8okyu3/Kenworth_521.zip.html
 
 -------------------------------------
+
+Oshkosh Defense HEMTT A4: https://sharemods.com/k1bzs5m2grv0/Oshkosh_Defense_HEMTT_A4.zip.html
+
+-------------------------------------
 *::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On

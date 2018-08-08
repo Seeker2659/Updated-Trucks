@@ -49,6 +49,10 @@ MZKT 742910 Volat: https://sharemods.com/9iph36slk313/Volat.zip.html
 
 -------------------------------------
 
+Wrecker Truck: https://sharemods.com/1m56mtaq4ual/Wrecker.zip.html
+
+-------------------------------------
+
 *::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On

@@ -53,6 +53,10 @@ Wrecker Truck: https://sharemods.com/1m56mtaq4ual/Wrecker.zip.html  (ONLY USE RE
 
 -------------------------------------
 
+Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.scs.html
+
+-------------------------------------
+
 *::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On

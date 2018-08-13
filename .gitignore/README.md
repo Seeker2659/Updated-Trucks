@@ -60,3 +60,13 @@ Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.sc
 *::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
 *::NOTICE::*   W900L Rear Camera Will Not Work Unless F2 Side Mirror Is On
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Other Updated trucks (not by Seeker):
+
+International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html

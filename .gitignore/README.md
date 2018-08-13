@@ -67,7 +67,7 @@ Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.sc
 
 
 
-Other Updated trucks (not by Seeker):
+Updated trucks by Slayer72:
 
 International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html
 Honda S2000: https://sharemods.com/mn8sb0yolkdx/HondaS2000_ataberkozen-ATS.scs.html

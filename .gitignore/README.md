@@ -77,3 +77,5 @@ Updated Trucks by Slayer72:
 International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html
 
 Honda S2000: https://sharemods.com/mn8sb0yolkdx/HondaS2000_ataberkozen-ATS.scs.html
+
+Volvo 9800 4x2 Bus: https://sharemods.com/9ebopdvynp0z/Volvo_9800_4x2.scs.html

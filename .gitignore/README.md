@@ -86,4 +86,5 @@ Peterbilt 351: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html
 Freightliner Century: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html
 
 Perterbilt 351: https://sharemods.com/h5udps0fc5u1/Peterbilt_351_JAWA_Smith_Stas556_3.0.scs.html
-       - Fix: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html  (goes above truck in mod manager)
+     
+     - Fix: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html  (goes above truck in mod manager)

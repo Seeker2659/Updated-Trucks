@@ -110,7 +110,7 @@ Kenworth K100 Edit by Henki73: https://sharemods.com/v5l9gx502c2c/K100_Edit_by_H
 -------------------------------------
      
 Kenworth K200: https://sharemods.com/l5dt8l1psodj/Kenworth_K200_Stas556___Fire-Blade__v.10.0_Part_1.scs.html
-       Part 2: https://sharemods.com/5vh8srfqfvxx/Kenworth_K200_Stas556___Fire-Blade__v.10.0_Part_2.scs.html
+               https://sharemods.com/5vh8srfqfvxx/Kenworth_K200_Stas556___Fire-Blade__v.10.0_Part_2.scs.html
                
 -------------------------------------
 

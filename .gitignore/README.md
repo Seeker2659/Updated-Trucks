@@ -61,6 +61,10 @@ Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.sc
 
 -------------------------------------
 
+W900 Transporter: https://sharemods.com/30mcuhxxhhbt/CarHauler.scs.html
+          - Make Sure When using this truck you have the day cab on, not the carvoz, that will make the steering wheel dissapear. I know its not perfect because you cant see the outside of the transporter from the 1st person side of things, but its still something.
+-------------------------------------
+
 
 *::WARNING::*  Do NOT Put New Mods Together With These Or Else This Will Result In Game Errors!
 
@@ -121,4 +125,5 @@ Peterbilt 386: https://sharemods.com/qgs0rrfratxe/Peterbilt_386.scs.html
 RTA-Mods Peterbilt 359: https://sharemods.com/6a9d6fyba58y/ATS_RTA-Mods_Peterbilt_359_v1.0.scs.html
 
 -------------------------------------
+
 

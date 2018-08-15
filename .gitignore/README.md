@@ -114,3 +114,7 @@ Kenworth K200: https://sharemods.com/l5dt8l1psodj/Kenworth_K200_Stas556___Fire-B
                
 -------------------------------------
 
+Peterbilt 386: https://sharemods.com/qgs0rrfratxe/Peterbilt_386.scs.html
+
+-------------------------------------
+

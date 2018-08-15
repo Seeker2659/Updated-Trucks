@@ -88,4 +88,6 @@ Peterbilt 351 Fix: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html
 Older Version Of Freightliner Century: https://sharemods.com/tsq7b89grlvs/fred_centuri.scs.html
 
 Kenworth T660: https://sharemods.com/vk01sqz1kfkd/t660.scs.html (It's called Kenworth w900 in the Dealer)
+
+Mack Pinnacle: https://sharemods.com/63xygabzems9/Mack_Pinnacle.scs.html
      

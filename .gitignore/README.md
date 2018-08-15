@@ -128,4 +128,8 @@ RTA-Mods Peterbilt 359: https://sharemods.com/6a9d6fyba58y/ATS_RTA-Mods_Peterbil
 
 -------------------------------------
 
+2017 Nissan GTR: https://sharemods.com/e01ugpnzdy0c/AtsNissan_Gtr_2017_By_KadirYagiz_.scs.html
+
+-------------------------------------
+
 

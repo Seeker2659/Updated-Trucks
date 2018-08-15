@@ -89,8 +89,6 @@ Volvo 9800 4x2 Bus: https://sharemods.com/9ebopdvynp0z/Volvo_9800_4x2.scs.html
 
 Peterbilt 351: https://sharemods.com/h5udps0fc5u1/Peterbilt_351_JAWA_Smith_Stas556_3.0.scs.html
 
--------------------------------------
-
 Peterbilt 351 Fix: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html (Goes above the truck mod)
 
 -------------------------------------

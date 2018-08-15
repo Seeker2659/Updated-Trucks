@@ -62,6 +62,7 @@ Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.sc
 -------------------------------------
 
 W900 Transporter: https://sharemods.com/30mcuhxxhhbt/CarHauler.scs.html
+          
           - Make Sure When using this truck you have the day cab on, not the carvoz, that will make the steering wheel dissapear. I know its not perfect because you cant see the outside of the transporter from the 1st person side of things, but its still something.
 -------------------------------------
 

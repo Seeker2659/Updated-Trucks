@@ -2,7 +2,7 @@ If you would like to support me doing all of these mods, you can paypal me at ht
 
 
 
-Updated Trucks:
+Updated Trucks for ATS v1.31.x By Seeker:
 -------------------------------------
 
 Dump Truck: http://sharemods.com/ovfx9icjubdk/peter379dumptruck.scs.html
@@ -72,24 +72,42 @@ Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.sc
 
 
 
-Updated Trucks by Slayer72:
+Updated Trucks for ATSv1.31.x By Slayer72:
 -------------------------------------
 
 International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html
 
+-------------------------------------
+
 Honda S2000: https://sharemods.com/mn8sb0yolkdx/HondaS2000_ataberkozen-ATS.scs.html
+
+-------------------------------------
 
 Volvo 9800 4x2 Bus: https://sharemods.com/9ebopdvynp0z/Volvo_9800_4x2.scs.html
 
+-------------------------------------
+
 Peterbilt 351: https://sharemods.com/h5udps0fc5u1/Peterbilt_351_JAWA_Smith_Stas556_3.0.scs.html
+
+-------------------------------------
 
 Peterbilt 351 Fix: https://sharemods.com/znbcddr8z7z4/Peterbilt_351_Fix.scs.html (Goes above the truck mod)
 
+-------------------------------------
+
 Older Version Of Freightliner Century: https://sharemods.com/tsq7b89grlvs/fred_centuri.scs.html
+
+-------------------------------------
 
 Kenworth T660: https://sharemods.com/vk01sqz1kfkd/t660.scs.html (It's called Kenworth w900 in the Dealer)
 
+-------------------------------------
+
 Mack Pinnacle: https://sharemods.com/63xygabzems9/Mack_Pinnacle.scs.html
 
+-------------------------------------
+
 Kenworth K100 Edit by Henki73: https://sharemods.com/v5l9gx502c2c/K100_Edit_by_Henki73.scs.html
+
+-------------------------------------
      

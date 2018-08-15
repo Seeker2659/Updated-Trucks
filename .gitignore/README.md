@@ -90,4 +90,6 @@ Older Version Of Freightliner Century: https://sharemods.com/tsq7b89grlvs/fred_c
 Kenworth T660: https://sharemods.com/vk01sqz1kfkd/t660.scs.html (It's called Kenworth w900 in the Dealer)
 
 Mack Pinnacle: https://sharemods.com/63xygabzems9/Mack_Pinnacle.scs.html
+
+Kenworth K100 Edit by Henki73: https://sharemods.com/v5l9gx502c2c/K100_Edit_by_Henki73.scs.html
      

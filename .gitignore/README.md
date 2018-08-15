@@ -118,3 +118,7 @@ Peterbilt 386: https://sharemods.com/qgs0rrfratxe/Peterbilt_386.scs.html
 
 -------------------------------------
 
+RTA-Mods Peterbilt 359: https://sharemods.com/6a9d6fyba58y/ATS_RTA-Mods_Peterbilt_359_v1.0.scs.html
+
+-------------------------------------
+

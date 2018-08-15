@@ -72,7 +72,7 @@ Freightliner Century: https://sharemods.com/fnr2j7ezjj2h/Freightliner_Century.sc
 
 
 
-Updated Trucks for ATSv1.31.x By Slayer72:
+Updated Trucks for ATS v1.31.x By Slayer72:
 -------------------------------------
 
 International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html

@@ -133,3 +133,8 @@ RTA-Mods Peterbilt 359: https://sharemods.com/6a9d6fyba58y/ATS_RTA-Mods_Peterbil
 -------------------------------------
 
 
+Livestock trailer by Pinga: https://sharemods.com/vb3czujak3k9/Livestock_Pinga_1.3.scs.html
+
+
+-------------------------------------
+

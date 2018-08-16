@@ -5,7 +5,7 @@ If you would like to support us doing all of these mods, you can paypal me at ht
 Updated Trucks for ATS v1.31.x By Seeker:
 -------------------------------------
 
-Dump Truck: http://sharemods.com/ovfx9icjubdk/peter379dumptruck.scs.html
+Dump Truck: https://sharemods.com/lsitrxx7vpu7/Dump_Truck.scs.html   (Updated To Work With Trailers)
 
 -------------------------------------
 

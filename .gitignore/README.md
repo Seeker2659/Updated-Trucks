@@ -138,3 +138,7 @@ Livestock trailer by Pinga: https://sharemods.com/vb3czujak3k9/Livestock_Pinga_1
 
 -------------------------------------
 
+Peterbilt 379 Choptop: https://sharemods.com/0caft7m4l4c3/Peterbilt_379_choptop_v1.2.scs.html
+
+-------------------------------------
+

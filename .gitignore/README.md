@@ -142,3 +142,7 @@ Peterbilt 379 Choptop: https://sharemods.com/0caft7m4l4c3/Peterbilt_379_choptop_
 
 -------------------------------------
 
+Western Star 5700EX: https://sharemods.com/kzuwyzgjtcca/Western_Star_5700ex.scs.html
+
+-------------------------------------
+

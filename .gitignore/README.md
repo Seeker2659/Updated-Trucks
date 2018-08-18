@@ -146,3 +146,7 @@ Western Star 5700EX: https://sharemods.com/kzuwyzgjtcca/Western_Star_5700ex.scs.
 
 -------------------------------------
 
+Kenworth 521: https://sharemods.com/ixefz41z2k2q/Kenworth_521.scs.html
+
+-------------------------------------
+

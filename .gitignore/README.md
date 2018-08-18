@@ -150,3 +150,7 @@ Kenworth 521: https://sharemods.com/ixefz41z2k2q/Kenworth_521.scs.html
 
 -------------------------------------
 
+Kenworth T609: https://sharemods.com/8t0rm55h24mw/Kenworth_T609_v2.0.scs.html
+
+-------------------------------------
+

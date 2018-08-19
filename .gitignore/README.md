@@ -162,3 +162,7 @@ Freightliner Argosy: https://sharemods.com/wnrrtwj018vx/Freightliner_Argosy.scs.
 
 -------------------------------------
 
+Peterbilt Modified v2.2: https://sharemods.com/aomc974u725s/Peterbilt_Modified_v2.2_Shop_Fix_included.scs.html (Includes Shop fix for camera)
+
+-------------------------------------
+

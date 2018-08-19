@@ -2,7 +2,7 @@ If you would like to support us doing all of these mods, you can paypal me at ht
 
 
 
-Updated Trucks for ATS v1.31.x By Seeker:
+Updated Trucks for ATS v1.31.x By Seeker: (Also works for v1.32.x Beta)
 -------------------------------------
 
 Dump Truck: https://sharemods.com/lsitrxx7vpu7/Dump_Truck.scs.html   (Updated To Work With Trailers)
@@ -77,7 +77,7 @@ W900 Transporter: https://sharemods.com/sebvr0btkz8x/CarHauler.scs.html
 
 
 
-Updated Trucks for ATS v1.31.x By Slayer72:
+Updated Trucks for ATS v1.31.x By Slayer72: (Also works for v1.32.x Beta)
 -------------------------------------
 
 International Lonestar: https://sharemods.com/u54hombweibl/International_Lonestar_1.31.scs.html

@@ -154,3 +154,7 @@ Kenworth T609: https://sharemods.com/8t0rm55h24mw/Kenworth_T609_v2.0.scs.html
 
 -------------------------------------
 
+Freightliner FLD v2.0: https://sharemods.com/ckgeugp6shpx/Freightliner_FLD_v2.0.scs.html
+
+-------------------------------------
+

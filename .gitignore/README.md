@@ -158,3 +158,7 @@ Freightliner FLD v2.0: https://sharemods.com/ckgeugp6shpx/Freightliner_FLD_v2.0.
 
 -------------------------------------
 
+Freightliner Argosy: https://sharemods.com/wnrrtwj018vx/Freightliner_Argosy.scs.html
+
+-------------------------------------
+

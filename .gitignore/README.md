@@ -166,3 +166,7 @@ Peterbilt Modified v2.2: https://sharemods.com/aomc974u725s/Peterbilt_Modified_v
 
 -------------------------------------
 
+Mack Superliner V8 v3.0: https://sharemods.com/7x67f4adz9ur/ATS_MACK_Superliner_V8_v3.0.scs.html
+
+-------------------------------------
+

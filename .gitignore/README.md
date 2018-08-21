@@ -170,3 +170,7 @@ Mack Superliner V8 v3.0: https://sharemods.com/7x67f4adz9ur/ATS_MACK_Superliner_
 
 -------------------------------------
 
+Kenworth T600: https://sharemods.com/isb0paoh8c4z/Kenworth_T600.scs.html
+
+-------------------------------------
+

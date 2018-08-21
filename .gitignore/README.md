@@ -178,3 +178,7 @@ Kenworth T2000: https://sharemods.com/55u4hducxkjs/Kenworth_T2000.scs.html
 
 -------------------------------------
 
+Kenworth T908: https://sharemods.com/wpn3r0eamuuj/t908.scs.html
+
+-------------------------------------
+

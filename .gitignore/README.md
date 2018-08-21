@@ -182,3 +182,7 @@ Kenworth T908: https://sharemods.com/wpn3r0eamuuj/t908.scs.html
 
 -------------------------------------
 
+GTM Peterbilt 567: https://sharemods.com/uszkn8x4ckf4/GTM_Peterbilt_567.scs.html
+
+-------------------------------------
+

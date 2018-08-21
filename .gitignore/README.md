@@ -174,3 +174,7 @@ Kenworth T600: https://sharemods.com/isb0paoh8c4z/Kenworth_T600.scs.html
 
 -------------------------------------
 
+Kenworth T2000: https://sharemods.com/55u4hducxkjs/Kenworth_T2000.scs.html
+
+-------------------------------------
+

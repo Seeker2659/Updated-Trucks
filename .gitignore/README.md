@@ -77,6 +77,36 @@ W900 Transporter: https://sharemods.com/sebvr0btkz8x/CarHauler.scs.html
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Updated Trucks for ATS v1.31.x By Slayer72: (Also works for v1.32.x Beta)
 -------------------------------------
 

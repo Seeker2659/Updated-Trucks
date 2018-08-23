@@ -73,3 +73,6 @@ W900 Transporter: https://sharemods.com/sebvr0btkz8x/CarHauler.scs.html
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+
+If You Would Like To Check Out Slayer72's Updated Mods, Make Sure To Check Them Out At https://github.com/PimpMy5Ton/Updated-Trucks/blob/master/README.md . This guy helped me a lot by updating trucks a lot of trucks and I still appreciate him doing this to help out the community. If you ever need anything updated just contact me or Slayer and we will try our best to fulfill your request.

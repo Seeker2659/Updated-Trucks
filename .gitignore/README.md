@@ -49,7 +49,7 @@ MZKT 742910 Volat: https://sharemods.com/9iph36slk313/Volat.zip.html
 
 -------------------------------------
 
-Wrecker Truck: https://sharemods.com/g9e4v2zitbmp/Wrecker.zip.html  (ONLY USE RECOVERY CHASSIS, OTHERS DONT WORK!)
+Wrecker Truck: https://sharemods.com/fgda602ngrdy/Wrecker.zip.html  (ONLY USE RECOVERY CHASSIS, OTHERS DONT WORK!)
 
 -------------------------------------
 

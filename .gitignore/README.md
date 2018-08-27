@@ -25,10 +25,6 @@ W900 By Bu5ted: http://sharemods.com/0q6lfijlmiz1/Bu5ted_W900_V4.scs.html
 
 -------------------------------------
 
-The Phantom: http://sharemods.com/ksx81oqly2ac/Kenworth_The_Phantom_1.0r.scs.html (Sorry about the mirrors being dark, a little bit buggy)
-
--------------------------------------
-
 Freightliner Coronado: http://sharemods.com/i38raefy55fn/freightliner.coronado_Modernized.scs.html
 
 -------------------------------------

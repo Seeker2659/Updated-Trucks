@@ -1,3 +1,10 @@
+This website will be moved to the following link in the upcomming days. https://seeker2659.wixsite.com/seekersupdatedtrucks
+ 
+ 
+ 
+ 
+ 
+ 
 If you would like to support us doing all of these mods, you can paypal me at https://paypal.me/Se3ker . Hopefully you like all these updated trucks and like what we're doing! You do not have to send us money but if you want to it would be appreciated!
 
 
